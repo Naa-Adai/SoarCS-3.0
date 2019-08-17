@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Soar CS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="team_names">*Noureddine Melikechi* \n\n *Fred Martin*  \n\n   *Sam Dodson*	\n\n	*Charlie Mirabile* \n\n *Jason Kiesling* \n\n    *Chris Odom* \n\n *Elena Izotova* \n\n  *Sam Patriquin*   \n\n   *Justin Lu*   \n\n   *Joel Slebodnick* \n\n  *John Swanson*  \n\n   *Foozieh Mir*   \n\n   *Sam Zuk*  </string>
+    <string name="members">*Nikhila Gubbala* \n\n *Mildred Kumah* \n\n *Jayla Galvez* \n\n *Katelyn Roseberry* \n\n *Alexan Chaprazian* \n\n *Durwin Wongwajarachot* \n\n *Jonathan Kang* \n\n *Dante Suarez* \n\n *James Leblanc* \n\n *Raj Vyas* \n\n *Zachary Le* \n\n * Gabriel Payan* \n\n Emilio Santos* \n\n *Ian Anderson* \n\n *Brian Hurtado* \n\n *Christopher Matias Pena* \n\n *Jeramaya Monteiro* \n\n *Gabriel Vega* \n\n *ELvin Colon* \n\n *Visoth Pen * \n\n *Mark Labelle* \n\n *Marcos Pagan* \n\n * Luis Guillermo* \n\n *Nicholas Matsuda* \n\n *Mohammed Kabir* \n\n *Robert Tullier* \n\n *Arek Wol* \n\n *Dunia Seidu* \n\n *Sakshi Baldawa </string>
+    <string name="acknowledgements">We would like to say thank you to:</string>
+    <string name="acknowledgements_1"> Liz Cole </string>
+    <string name="acknowledgements_2"> Kerri Johnston, Kate Hennessy, Mai Nguyen, Clara Reynolds, Dawn Williams</string>
+    <string name="acknowledgements_3">Tom Clark, Giana Panagiotakos</string>
+    <string name="acknowledgements_4">Kimberly Sawyer 1989 \n Kennedy College of Sciences</string>
+    <string name="acknowledgements_5">Heidi Dempsey and Sarah Coghlan</string>
+    <string name="about_1">Introduce fun computing environments (and key ideas in programming) \n\n\n Give you a chance to make an original “creative project” \n\n\n Introduce you to each other, and to students, faculty, and staff in the department, college, and university (and alumni)</string>
+    <string name="about_2">A sense of agency with regard to computer science (“I can make things”) \n\n A feeling of belonging in a community of practice</string>
+</resources>
